@@ -223,6 +223,7 @@ article.active {
 .h2,
 .h3,
 .h4,
+.h6
 .h5 {
   color: var(--white-2);
   
@@ -233,6 +234,8 @@ article.active {
 .h3 { font-size: var(--fs-2); }
 
 .h4 { font-size: var(--fs-4); }
+
+.h6 { font-size: var(--fs-5); }
 
 .h5 {
   font-size: var(--fs-7);
