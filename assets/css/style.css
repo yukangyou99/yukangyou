@@ -8,7 +8,9 @@
  */
 
 
-
+a {
+  color: yellow
+}
 
 
 /*-----------------------------------*\
@@ -1816,7 +1818,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .main-content {
-    min-width: 75%;
+    min-width: 70%;
     width: 75%;
     margin: 0;
   }
