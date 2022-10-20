@@ -351,7 +351,7 @@ main {
 }
 
 .info-content .title {
-  color: var(--white-1);
+  color: hsl(216deg 100% 72%);
   background: var(--onyx);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
@@ -1349,7 +1349,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .info-content .name { margin-bottom: 15px; }
 
-  .info-content .title { padding: 5px 18px; }
+  .info-content .title { padding: 5px 18px; font-weight:bold;}
 
   .info_more-btn {
     top: -30px;
