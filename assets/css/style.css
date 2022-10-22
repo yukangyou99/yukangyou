@@ -857,7 +857,7 @@ main {
   margin-bottom: 8px;
 }
 
-.skill .title-wrapper data {
+.skill .pubs .publications .title-wrapper data {
   color: var(--light-gray);
   font-size: var(--fs-7);
   font-weight: var(--fw-300);
