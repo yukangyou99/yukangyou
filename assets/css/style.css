@@ -453,50 +453,7 @@ main {
 .social-item .social-link:hover { color: var(--light-gray); }
 
 
-/*-----------------------------------*\
-  #Publications
-\*-----------------------------------*/
 
-.pubs .publication {font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";}
-
-
-.pubs .publication .papertitle {
-
-
-}
-
-
-.pubs .publication .authors {
-	margin-bottom: 0.3em;
-    	font-weight: 300;
-	color: white;
-}
-
-
-.pubs .publication .venue {
-	color:yellow
-
-}
-
-.pubs .publication h3 {
-    font-size: 1.2em;
-    margin: 0em;
-    font-weight: 500;
-    max-height: 600px;
-    overflow: hidden;
-}
-
-.pub .publication awards{
-    margin-top: 0.1em;
-    font-weight: 500;
-    color: firebrick;
-}
-
-.pubs .publication .extra-links {
-    margin-top: 0.5em;
-    font-weight: 300;
-    font-size: 0.9em;
-}
 
 
 
