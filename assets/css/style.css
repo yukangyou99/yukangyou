@@ -299,6 +299,16 @@ article.active {
 }
 
 
+.pubs .publication {
+    margin-bottom: 2em;
+}
+
+.pubs .publication, .pubs .year {
+    opacity: 1;
+    max-height: 600px;
+    overflow: hidden;
+    transition: all 0.6s ease;
+}
 .paper{
     color:white;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
@@ -326,6 +336,8 @@ article.active {
     margin-bottom: 0.3em;
     color:white;
 }
+
+
 
 
 
