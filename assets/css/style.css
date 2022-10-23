@@ -352,6 +352,10 @@ article.active {
     line-height: 1.64;
 }
 
+.fa-award:before {
+    content: "\f559";
+}
+
 
 
 
