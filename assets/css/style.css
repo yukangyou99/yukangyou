@@ -320,6 +320,7 @@ article.active {
     color:yellow
 }
 .author_me{
+    font-weight: 600;
     border-bottom: 2px solid #96351e;
 }
 
