@@ -317,7 +317,7 @@ article.active {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     font-size: 100%;
     line-height: 1.64;
-    color:yellow
+    color:var(--vegas-gold);
 }
 .author_me{
     font-weight: 600;
