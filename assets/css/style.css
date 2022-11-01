@@ -363,6 +363,16 @@ article.active {
 
 
 
+.honors{
+    list-style-position: outside;
+    list-style-type: square;
+}
+
+
+
+
+
+
 
 
 /*-----------------------------------*\
