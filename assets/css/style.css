@@ -12,6 +12,11 @@ a {
   color: yellow
 }
 
+a:hover {
+  color: #cdbd79;
+  text-decoration: underline;
+}
+
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
