@@ -126,7 +126,15 @@
   box-sizing: border-box;
 }
 
-a { text-decoration: none; }
+a { 
+	color: #cdbd79
+	text-decoration: none; 
+}
+
+a :hover{ 
+	color: #cdbd79
+	text-decoration: underline; 
+}
 
 li { list-style: none; }
 
