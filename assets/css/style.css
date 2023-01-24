@@ -1523,7 +1523,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .testimonials-item-title {
     margin-bottom: 10px;
-    margin-left: 95px;
+/*     margin-left: 95px; */
+	text-align: center;
   }
 
   .testimonials-text {
